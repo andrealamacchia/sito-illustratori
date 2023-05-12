@@ -1,0 +1,47 @@
+body{
+    max-width: 1400px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: first baseline;
+}
+
+.tasti nav ul{
+    list-style: none;
+    word-spacing: 100px;
+    margin-right: 150px;
+}
+
+.tasti a:hover{
+    text-decoration: underline;
+}
+
+header h1{
+margin-left: 150px;
+font-size: 30pt;
+}
+
+
+
+main{
+    max-width: none;
+}
+
+.preview1, .preview2{
+    display: inline-flex;
+}
+
+.tasti{
+    
+   margin: auto;   
+}
+
+main img{
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px grey;
+    z-index: 1;
+    position: center;
+}

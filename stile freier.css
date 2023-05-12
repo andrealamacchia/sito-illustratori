@@ -1,0 +1,57 @@
+.testata{
+    max-width: 1500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.tasti a:hover{
+    text-decoration: underline;
+}
+
+
+.testata h1{
+    margin-left: 100px;
+    font-size: 30pt;
+}
+
+.tasti nav ul{
+    list-style: none;
+    margin-right: 100px;
+    word-spacing: 100px;
+    font-size: 15pt;
+}
+
+.autore{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nome h2{
+    font-size: 25pt;
+    margin-left: 100px;
+}
+
+.img1{
+    display: flex;
+    height: 500px;
+    position: right;
+    
+}
+
+.paragrafi p{
+    max-width: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.immagini {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    align-content:baseline;
+    }
+.img1 img{
+    padding-left: 250px;
+}
