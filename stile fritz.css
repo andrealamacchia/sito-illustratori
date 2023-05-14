@@ -1,5 +1,9 @@
+
+body{
+    max-width: 1400px;
+}
 .testata{
-    max-width: 1500px;
+    max-width: 1400px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -8,7 +12,6 @@
 .tasti a:hover{
     text-decoration: underline;
 }
-
 
 .testata h1{
     margin-left: 100px;
@@ -51,7 +54,9 @@
     justify-content: space-between;
     max-width: 1400px;
     align-content:baseline;
+    padding: 200px;
 }
 .img1 img{
     padding-left: 250px;
+    padding: 30px;
 }

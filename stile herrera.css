@@ -1,5 +1,9 @@
+
+body{
+    max-width: 1100%;
+}
 .testata{
-    max-width: 1500px;
+    max-width: 1400px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -54,4 +58,5 @@
 }
 .img1 img{
     padding-left: 250px;
+    padding: 30px;
 }

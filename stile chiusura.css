@@ -1,5 +1,8 @@
+body{
+    max-width: 1400px;
+}
 .testata{
-    max-width: 1500px;
+    max-width: 1400px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
